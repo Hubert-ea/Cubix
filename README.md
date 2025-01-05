@@ -7,4 +7,4 @@ This repository contains the homework assignments from the Cubix course 2nd part
 - **Task 2**: Creating  a function for s3 
 - **Task 3**: I performed SQL queries in the Athena environment, where I transformed my data into tables stored in Amazon S3 and queried them using standard SQL syntax.
 (was uploaded separately to Cubix)
-- **Task **: Create 5 visualisations (08_local_visualisations notebook)
+- **Task 4**: Create 5 visualisations (08_local_visualisations notebook)
